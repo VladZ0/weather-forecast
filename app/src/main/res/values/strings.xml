@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="search">search</string>
+    <string name="filters">Filters</string>
+    <string name="forecast_time">Forecast time:</string>
+    <string name="date_locale">Date locale:</string>
+    <string name="cancel">cancel</string>
+    <string name="change">change</string>
+
+    <string-array name="forecast_time_filters">
+        <item>every 3 hours</item>
+        <item>now</item>
+    </string-array>
+
+    <string-array name="date_locale_filters">
+        <item>Forecast city time</item>
+        <item>Your current time</item>
+        <item>UTC</item>
+    </string-array>
+
+</resources>
